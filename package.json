@@ -1,0 +1,12 @@
+{
+  "name": "Notes-App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.10",
+    "node": "10.4.1",
+    "nodemon": "1.17.5",
+    "yargs": "4.7.1"
+  }
+}
